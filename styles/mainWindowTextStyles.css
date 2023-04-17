@@ -1,0 +1,35 @@
+/* body {
+  background: url("../image/backgroundBody/img3.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  padding-left: 2%;
+  padding-top: 3%;
+  padding-right: 2%;
+} */
+
+/* .main_conteiner {
+  height: 900px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+  background: linear-gradient(
+    to left,
+    rgba(232, 230, 222, 0.7) 0%,
+    rgba(53, 139, 209, 0.781) 50%,
+    rgba(38, 121, 160, 0.568) 100%
+  );
+} */
+.childe_main_conteiner {
+  display: flex;
+  height: 300px;
+  text-align: center;
+  align-items: center;
+  /* border-radius: 15px; */
+  box-shadow: 0 0 10px #000;
+  background-color: gray;
+}
+
+.conteiner {
+  margin-left: 20px;
+  margin-right: 20px;
+}

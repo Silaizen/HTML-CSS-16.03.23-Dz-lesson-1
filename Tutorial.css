@@ -1,0 +1,86 @@
+.headerText {
+  font-size: 100px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
+  font-family: "headerTextFont";
+  text-transform: uppercase;
+  background-clip: content-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* background: linear-gradient(
+    to right,
+    #292b96 30%,
+    #2c42a3b0 60%,
+    #59f0f5 100%
+  ); */
+  /* background: linear-gradient(
+    to right,
+    #3c0bb1 20%,
+    #4a2392b0 40%,
+    #b013b6 100%
+  ); */
+}
+/* @font-face {
+  font-family: "font2";
+  src: url("image/font/font3.TTF") format("truetype");
+} */
+/* @font-face {
+  font-family: "headerTextFont";
+  src: url("image/font/font3.TTF") format("truetype");
+} */
+
+.childHeaderText {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #f5f5f5;
+}
+
+.boldTextSpan {
+  font-weight: bold;
+}
+
+.link_HTML_Tutorials {
+  color: black;
+}
+
+.text_color {
+  background-color: #ece4e5;
+  color: red;
+}
+
+.text_color2 {
+  color: rgb(148, 9, 9);
+}
+
+.text_color3 {
+  color: rgb(3, 3, 3);
+}
+
+.text_color_Tags {
+  color: aquamarine;
+}
+.separator {
+  background-color: black;
+  height: 0.1px;
+  border-color: transparent;
+  border-radius: 10%;
+}
+
+pre {
+  text-align: left;
+  align-items: center;
+  font-size: 27px;
+}
+.gap {
+  color: rgb(5, 109, 141);
+  background-color: #a8a8a8;
+}
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+}
